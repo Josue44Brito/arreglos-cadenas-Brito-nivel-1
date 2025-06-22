@@ -1,3 +1,4 @@
+//Ejercicio 3: Notas de un alumno
 #include <iostream>
 using namespace std;
 

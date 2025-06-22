@@ -1,3 +1,4 @@
+//Ejercicio 2: Vector de cadenas invertido
 #include <iostream>
 #include <string>
 using namespace std;
